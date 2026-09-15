@@ -30,7 +30,7 @@ export default function Header({ currentRoute, navigate }: Props) {
         <div className="max-w-7xl mx-auto px-4 py-4 flex items-center gap-4">
           <div className="flex-shrink-0 w-12 h-12 sm:w-14 sm:h-14 rounded-full bg-white flex items-center justify-center overflow-hidden">
             <img
-              src="/images/Seal_of_Tamil_Nadu.svg"
+              src="/images/Seal_of_Tamil_Nadu.jpg"
               alt="Tamil Nadu State Emblem"
               className="w-full h-full object-contain"
             />

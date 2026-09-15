@@ -15,7 +15,7 @@ export default function Footer({ navigate }: Props) {
             <div className="flex items-center gap-3 mb-4">
               <div className="w-10 h-10 rounded-full bg-white/10 flex items-center justify-center overflow-hidden">
                 <img
-                  src="/images/Seal_of_Tamil_Nadu.svg"
+                  src="/images/Seal_of_Tamil_Nadu.jpg"
                   alt="Tamil Nadu State Emblem"
                   className="w-full h-full object-contain"
                 />

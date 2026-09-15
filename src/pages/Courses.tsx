@@ -24,7 +24,7 @@ export default function Courses() {
                 <div className="bg-slate-800 p-6">
                   <div className="w-12 h-12 rounded-lg bg-white/10 flex items-center justify-center mb-4 overflow-hidden">
                     <img
-                      src="/images/Seal_of_Tamil_Nadu.svg"
+                      src="/images/Seal_of_Tamil_Nadu.jpg"
                       alt="Tamil Nadu State Emblem"
                       className="w-full h-full object-contain"
                     />
